@@ -1,2 +1,2 @@
 # Temp-file-delete
-App that deletes temporary files on the computer
+App that deletes temporary files on the computer. No one likes to have a slow computer and temporary files can slow down the computer quite a bit since its stored in a folder. However to access the files we need to go into run and search up %temp% and manually delete the files and then delete them from the recycle bin. This app is designed to automatically get rid of all these files with one simple click!. Using GUI make from tkinter and a class that deletes all the temp files, making your computer faster just got a little easier. 
